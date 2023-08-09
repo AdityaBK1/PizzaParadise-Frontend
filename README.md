@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------
 ### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This project is done to display a Pizza order Website to view the various pizzas and add to the cart to buy pizzas via this portal.
 ---------------------------------------------------------------------------------------------------------------
-### ⚙️ __REALTIME__ USAGE ⚙️ __:__ 
+### ⚙️ __REALTIME__ USAGE ⚙️ __:__ Pizza Companies
 ---------------------------------------------------------------------------------------------------------------
 ### 💻 __TECHNICAL__ SPECIFICATIONS 💻 __:__
 * HTML
