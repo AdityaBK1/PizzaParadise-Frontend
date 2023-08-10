@@ -17,6 +17,9 @@
 ### 📷 __IMAGES__ 📷 __:__
 ![image](https://github.com/AdityaBK1/PizzaParadise-Frontend/assets/131005390/a884a2cd-3226-4009-a642-bbce8d1cba3c)
 
+![image](https://github.com/AdityaBK1/PizzaParadise-Frontend/assets/131005390/cd9e171a-b025-4694-92e3-903f311bd97f)
+
+
 ---------------------------------------------------------------------------------------------------------------
 ### If you like it remember to give repo a star ⭐.
 
