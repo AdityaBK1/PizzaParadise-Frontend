@@ -1,6 +1,6 @@
 ## 💼 __PROJECT__ __NAME__ 💼 __: PizzaParadise-Frontend
 ---------------------------------------------------------------------------------------------------------------
-### 📽️ __LIVE__ __DEMO__ __LINK__ 📽️ __:__ ""
+### 📽️ __LIVE__ __DEMO__ __LINK__ 📽️ __:__ "pizza-paradise-app.netlify.app/"
 ---------------------------------------------------------------------------------------------------------------
 ### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This project is done to display a Pizza order Website to view the various pizzas and add to the cart to buy pizzas via this portal.
 ---------------------------------------------------------------------------------------------------------------
